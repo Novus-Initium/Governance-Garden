@@ -1,4 +1,4 @@
-```
+
                  ███╗   ██╗██╗███╗   ██╗██╗████████╗
                  ████╗  ██║██║████╗  ██║██║╚══██╔══╝
                  ██╔██╗ ██║██║██╔██╗ ██║██║   ██║   
@@ -49,6 +49,3 @@ where knowledge grows wild and free.
 
 ---
 *Cultivating futures, one commit at a time.*
-```
-
-Would you like me to refine any aspect of this README?
