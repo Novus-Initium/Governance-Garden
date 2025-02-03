@@ -7,4 +7,3 @@ N/A
 ### Recommended Plug ins: 
 - Git
 - Make-MD
-- 
