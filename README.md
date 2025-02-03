@@ -1,4 +1,4 @@
-
+```
                  ███╗   ██╗██╗███╗   ██╗██╗████████╗
                  ████╗  ██║██║████╗  ██║██║╚══██╔══╝
                  ██╔██╗ ██║██║██╔██╗ ██║██║   ██║   
@@ -49,3 +49,4 @@ where knowledge grows wild and free.
 
 ---
 *Cultivating futures, one commit at a time.*
+```
