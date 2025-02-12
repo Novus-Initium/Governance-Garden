@@ -1,0 +1,3 @@
+- Distributed authority across self-organizing teams
+- Roles defined by purpose, not hierarchy
+- Dynamic role allocation
