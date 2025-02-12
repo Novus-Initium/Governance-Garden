@@ -1,0 +1,1 @@
+2025 Hash Bash x Milady Rave at GKL is on February 28th.
