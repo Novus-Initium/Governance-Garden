@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ninit KMS/Ninit Nebula/1. Ninisters/A. Ninisters Main.md",
+                "file": "Ninit KMS/2. Projects & Ninitiatives/9. Hackathons/ETHDenver/Brainstorming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A. Ninisters Main"
+              "title": "Brainstorming"
             }
           }
         ]
@@ -40,8 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -165,41 +164,41 @@
   },
   "active": "efcabeb58ef2dc7c",
   "lastOpenFiles": [
-    "Ninit KMS/Ninit Nebula/1. Ninisters/Mekail/Welcome.md",
-    "Ninit KMS/Ninit Nebula/1. Ninisters/A. Ninisters Main.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Research INDEX.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/General/Mechanisms vs Systems.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/General/How to recognize Mechanisms.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Systems (CoS)/0. Welcome to CoS.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Systems (CoS)/B. Voting Systems/Voting Main.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Systems (CoS)/A. Reputation Systems/Reputation Main.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/0. Welcome to CoM.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/6. Consensus Mechas/1. Consensus Main.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/7. Communication Mechas/1. Communication Main.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/8. Accountability Mechas/1. Accountability Main.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/9. Transparency Mechas/1. Transparency Main.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/11. Adaptive Mechas/1. Adapative Main.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/10. Incentive Mechas/1. Incentive Mecha Main.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/5. Resolution Mechas/1. Resolution Main.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/4. Reputation Mechas/1. Reputation Main.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/3. Allocation Mechas/1. Allocation Main.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/1. Voting Mechas/1. Voting Main.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/2. Power Distribution Mechas/1. Power Distribution Main.md",
+    "Ninit KMS/2. Projects & Ninitiatives/0. Events/B. Governinit/Governinit 2025.md",
+    "Ninit KMS/2. Projects & Ninitiatives/9. Hackathons/ETHDenver/Brainstorming.md",
+    "Ninit KMS/2. Projects & Ninitiatives/9. Hackathons/ETHDenver",
+    "Ninit KMS/2. Projects & Ninitiatives/9. Hackathons",
+    "README.md",
     "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/2. Power Distribution Mechas/A. Organizational Mechanisms/Holacracy/Holacracy Main.md",
     "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/2. Power Distribution Mechas/Delegate Proof Of Stake/DPoS.md",
     "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/2. Power Distribution Mechas/A. Organizational Mechanisms/Holacracy",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/2. Power Distribution Mechas/A. Organizational Mechanisms",
     "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/1. Voting Mechas/G. Conviction Voting/Conviction Voting Main.md",
     "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/1. Voting Mechas/F. Proportinal Voting/Proportional Voting Main.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/1. Voting Mechas/G. Conviction Voting",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/2. Power Distribution Mechas/Delegate Proof Of Stake",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/1. Voting Mechas/E. Weighted Voting/Weighted Voting Main.md",
     "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/1. Voting Mechas/D. Quadratic Voting/Quadratic Voting Main.md",
-    "Ninit KMS/2. Projects & Ninitiatives/A. Chad Uppercut",
-    "Ninit KMS/2. Projects & Ninitiatives/Untitled 1",
-    "Ninit KMS/2. Projects & Ninitiatives/0. Events/B. Governinit/Governinit 2024",
-    "Ninit KMS/2. Projects & Ninitiatives/0. Events/B. Governinit",
-    "Ninit KMS/2. Projects & Ninitiatives/0. Events",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/1. Voting Mechas/F. Proportinal Voting"
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/1. Voting Mechas/E. Weighted Voting/Weighted Voting Main.md",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/1. Voting Mechas/C. Approval Voting/Approval Voting Main.md",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/1. Voting Mechas/B. Cumulative Voting/Cumulative Voting Main.md",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/1. Voting Mechas/A. Ranked Choice/2. Example Mechanisms.md",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/1. Voting Mechas/A. Ranked Choice/1. Ranked Choice Voting.md",
+    "Ninit KMS/2. Projects & Ninitiatives/0. Events/B. Governinit/Governinit 2024/Governinit 2024.md",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Systems (CoS)/B. Voting Systems/Voting Main.md",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Systems (CoS)/A. Reputation Systems/Reputation Main.md",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/9. Transparency Mechas/1. Transparency Main.md",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/8. Accountability Mechas/1. Accountability Main.md",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/7. Communication Mechas/1. Communication Main.md",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/6. Consensus Mechas/1. Consensus Main.md",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/5. Resolution Mechas/1. Resolution Main.md",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/3. Allocation Mechas/1. Allocation Main.md",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/4. Reputation Mechas/1. Reputation Main.md",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/2. Power Distribution Mechas/Delegate Proof Of Stake",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/2. Power Distribution Mechas/A. Organizational Mechanisms",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/2. Power Distribution Mechas/1. Power Distribution Main.md",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/10. Incentive Mechas/1. Incentive Mecha Main.md",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/11. Adaptive Mechas/1. Adapative Main.md",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/1. Voting Mechas/G. Conviction Voting",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/1. Voting Mechas/F. Proportinal Voting",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/1. Voting Mechas/E. Weighted Voting",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/1. Voting Mechas/D. Quadratic Voting",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance/Categories of Mechanisms (CoM)/1. Voting Mechas/C. Approval Voting"
   ]
 }
