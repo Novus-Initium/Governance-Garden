@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"f2724ca84cf7fd62","x":-215,"y":349,"width":250,"height":60,"type":"text","text":"Capital Flow Tracking"},
+		{"id":"16dc9026fdfbe54b","type":"text","text":"Citizen","x":-215,"y":-240,"width":136,"height":53},
+		{"id":"f22eea32c9bd1ce1","type":"text","text":"Decision Making Process","x":-438,"y":-149,"width":250,"height":60},
+		{"id":"310a70e4ed84c416","type":"text","text":"Treasury","x":-226,"y":60,"width":158,"height":50},
+		{"id":"302abefc4745977e","x":-438,"y":-40,"width":250,"height":60,"type":"text","text":"Weighted Governance"},
+		{"id":"8f9604fd9fbcef34","x":-40,"y":-70,"width":250,"height":60,"type":"text","text":"Rage Quit Mechansim"},
+		{"id":"49291095231d7fd4","x":-563,"y":200,"width":250,"height":60,"type":"text","text":"Tracked Reputation"}
+	],
+	"edges":[
+		{"id":"7cfe02fdbac08296","fromNode":"16dc9026fdfbe54b","fromSide":"right","toNode":"f22eea32c9bd1ce1","toSide":"right"},
+		{"id":"3d783614dd42aba4","fromNode":"f22eea32c9bd1ce1","fromSide":"bottom","toNode":"310a70e4ed84c416","toSide":"left"},
+		{"id":"2de7746f1c109e96","fromNode":"16dc9026fdfbe54b","fromSide":"right","toNode":"8f9604fd9fbcef34","toSide":"left"},
+		{"id":"949f4d3223243824","fromNode":"8f9604fd9fbcef34","fromSide":"bottom","toNode":"310a70e4ed84c416","toSide":"top"}
+	]
+}
