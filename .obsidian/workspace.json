@@ -11,14 +11,12 @@
             "id": "efcabeb58ef2dc7c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Ninit KMS/2. Projects & Ninitiatives/9. Hackathons/ETHDenver/Pollination Station User Experience.md",
-                "mode": "source",
-                "source": false
+                "file": "Ninit KMS/2. Projects & Ninitiatives/9. Hackathons/ETHDenver/logo.png"
               },
-              "icon": "lucide-file",
-              "title": "Pollination Station User Experience"
+              "icon": "lucide-image",
+              "title": "logo"
             }
           },
           {
@@ -179,11 +177,12 @@
   },
   "active": "efcabeb58ef2dc7c",
   "lastOpenFiles": [
+    "Ninit KMS/2. Projects & Ninitiatives/9. Hackathons/ETHDenver/Pollination Station UI.md",
+    "Ninit KMS/2. Projects & Ninitiatives/9. Hackathons/ETHDenver/logo.png",
+    "Ninit KMS/2. Projects & Ninitiatives/9. Hackathons/ETHDenver/Pollination Station User Experience.md",
     "Screenshot 2025-02-24 at 11.02.51 PM.png",
     "Ninit KMS/2. Projects & Ninitiatives/9. Hackathons/ETHDenver/Pollination Station System Architecture.md",
-    "Ninit KMS/2. Projects & Ninitiatives/9. Hackathons/ETHDenver/Pollination Station User Experience.md",
     "Screenshot 2025-02-24 at 11.01.09 PM.png",
-    "Ninit KMS/2. Projects & Ninitiatives/9. Hackathons/ETHDenver/Pollination Station UI.md",
     "Ninit KMS/2. Projects & Ninitiatives/9. Hackathons/ETHDenver/Pollination Station WWW.md",
     "Screenshot 2025-02-24 at 10.57.21 PM.png",
     "Screenshot 2025-02-24 at 10.57.00 PM.png",
