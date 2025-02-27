@@ -6,7 +6,7 @@
       {
         "id": "f86b1ffd768b6cd9",
         "type": "tabs",
-        "dimension": 65.57659208261619,
+        "dimension": 71.09826589595376,
         "children": [
           {
             "id": "efcabeb58ef2dc7c",
@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ninit KMS/3. Ninit Research Arena (NRA)/Governance Hub/Categories of Mechanisms (CoM)/1. Voting Mechas/A. Ranked Choice/2. Example Mechanisms.md",
+                "file": "Ninit KMS/3. Ninit Research Arena (NRA)/Resources/Rescources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Example Mechanisms"
+              "title": "Rescources"
             }
           }
         ],
@@ -45,7 +45,7 @@
       {
         "id": "978f016e059d8a2c",
         "type": "tabs",
-        "dimension": 34.42340791738382,
+        "dimension": 28.901734104046245,
         "children": [
           {
             "id": "9d908057f2cafe23",
@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480.5
+    "width": 288.5
   },
   "right": {
     "id": "59904ce8df6f57d1",
@@ -205,7 +205,25 @@
   },
   "active": "895fb8d4d61b3571",
   "lastOpenFiles": [
+    "Ninit KMS/1. Foundations/Resources/Readings.md",
+    "Ninit KMS/2. Projects & Ninitiatives/Hackathons/ETHDenver 2025/P. Pollination Station/Submission Details.md",
+    "Ninit KMS/2. Projects & Ninitiatives/Hackathons/ETHDenver 2025/P. Pollination Station/Pollinate Notes.md",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Resources/Rescources.md",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Resources",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Research INDEX.md",
+    "Ninit KMS/2. Projects & Ninitiatives/Hackathons/ETHDenver 2025/P. Pollination Station/Pollination Station Main.md",
+    "Ninit KMS/2. Projects & Ninitiatives/Hackathons/ETHDenver 2025/Pollination Station.md",
+    "Ninit KMS/2. Projects & Ninitiatives/Ninitiatives/P. Pollination Station/Chad Uppercut Main.md",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Data Hub/Data Collection & Analysis.md",
+    "Ninit KMS/2. Projects & Ninitiatives/Hackathons/ETHDenver 2025",
+    "Ninit KMS/2. Projects & Ninitiatives/Hackathons",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Research on Research",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Data Hub/How to collect data.md",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Data Hub",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance Hub/Categories of Mechanisms (CoM)/1. Voting Mechas/A. Ranked Choice/2. Example Mechanisms.md",
     "Ninit KMS/3. Ninit Research Arena (NRA)/Governance Hub/Categories of Mechanisms (CoM)/1. Voting Mechas/A. Ranked Choice/1. Ranked Choice Voting.md",
+    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance Hub/Categories of Mechanisms (CoM)/0. Welcome to CoM.md",
+    "Ninit KMS/2. Projects & Ninitiatives/INDEX.md",
     "Ninit KMS/3. Ninit Research Arena (NRA)/Governance Hub/Categories of Mechanisms (CoM)/1. Voting Mechas/1. Voting Main.md",
     "Ninit KMS/3. Ninit Research Arena (NRA)/Governance Hub/Categories of Mechanisms (CoM)/2. Power Distribution Mechas/1. Power Distribution Main.md",
     "Ninit KMS/Ninit Nebula/Ninisters/Q-bone/Hello Q-bone.md",
@@ -223,24 +241,6 @@
     "Ninit KMS/1. Foundations/About/What is NINIT.md",
     "Ninit KMS/Ninit Nebula/Ninisters/Mekail/Notes/DAO Canvas.canvas",
     "Ninit KMS/Ninit Nebula/Ninisters/Mekail/Notes/DDD Breaking down DAOs.md",
-    "Ninit KMS/Ninit Nebula/Ninisters/Mekail/Notes",
-    "Ninit KMS/1. Foundations/Resources/Readings.md",
-    "Ninit KMS/1. Foundations/Resources",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance Hub/Categories of Mechanisms (CoM)/1. Voting Mechas/A. Ranked Choice/2. Example Mechanisms.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance Hub/Categories of Mechanisms (CoM)/0. Welcome to CoM.md",
-    "Ninit KMS/Ninit Nebula/Ninisters/A. Ninisters Main.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Research INDEX.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance Hub/General/Mechanisms vs Systems.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance Hub/General/How to recognize Mechanisms.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance Hub/Categories of Systems (CoS)/0. Welcome to CoS.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance Hub/Categories of Systems (CoS)/B. Voting Systems/Voting Main.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance Hub/Categories of Systems (CoS)/A. Reputation Systems/Reputation Main.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance Hub/Categories of Mechanisms (CoM)/6. Consensus Mechas/1. Consensus Main.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance Hub/Categories of Mechanisms (CoM)/7. Communication Mechas/1. Communication Main.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance Hub/Categories of Mechanisms (CoM)/8. Accountability Mechas/1. Accountability Main.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance Hub/Categories of Mechanisms (CoM)/9. Transparency Mechas/1. Transparency Main.md",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance Hub/Categories of Mechanisms (CoM)/2. Power Distribution Mechas/A. Organizational Mechanisms/Holacracy",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance Hub/Categories of Mechanisms (CoM)/2. Power Distribution Mechas/A. Organizational Mechanisms",
-    "Ninit KMS/3. Ninit Research Arena (NRA)/Governance Hub/Categories of Mechanisms (CoM)/1. Voting Mechas/G. Conviction Voting"
+    "Ninit KMS/Ninit Nebula/Ninisters/A. Ninisters Main.md"
   ]
 }
